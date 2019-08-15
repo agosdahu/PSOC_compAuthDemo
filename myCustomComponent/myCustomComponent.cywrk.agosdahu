@@ -13,12 +13,13 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="myCustomComponent\DemoLib">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="myCustomComponent\DemoProj">
 <ExpandedNodeIds>
 <v>myCustomComponent</v>
+<v>myCustomComponent\DemoLib</v>
+<v>myCustomComponent\DemoProj</v>
 <v>myCustomComponent\DemoProj\TopDesign</v>
 <v>myCustomComponent\DemoProj\DemoProj.cydwr</v>
-<v>myCustomComponent\myCustomComponent</v>
 <v>myCustomComponent\myCustomComponent\TopDesign</v>
 <v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr</v>
 <v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Pins</v>
@@ -41,60 +42,29 @@
 <VisibleNodeIds>
 <v>myCustomComponent</v>
 <v>myCustomComponent\DemoLib</v>
+<v>myCustomComponent\DemoLib\Header Files</v>
+<v>myCustomComponent\DemoLib\Source Files</v>
 <v>myCustomComponent\DemoProj</v>
+<v>myCustomComponent\DemoProj\TopDesign</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\Pins</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\Analog</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\Clocks</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\Interrupts</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\DMA</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\System</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\Directives</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\Flash Security</v>
+<v>myCustomComponent\DemoProj\DemoProj.cydwr\EEPROM</v>
+<v>myCustomComponent\DemoProj\Header Files</v>
+<v>myCustomComponent\DemoProj\Source Files</v>
 <v>myCustomComponent\myCustomComponent</v>
-<v>myCustomComponent\myCustomComponent\TopDesign</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Pins</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Analog</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Clocks</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Interrupts</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\DMA</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\System</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Directives</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\Flash Security</v>
-<v>myCustomComponent\myCustomComponent\myCustomComponent.cydwr\EEPROM</v>
-<v>myCustomComponent\myCustomComponent\Header Files</v>
-<v>myCustomComponent\myCustomComponent\Header Files\cyapicallbacks.h</v>
-<v>myCustomComponent\myCustomComponent\Source Files</v>
-<v>myCustomComponent\myCustomComponent\Source Files\main.c</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\Clock_1</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cnt_port</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cy_boot</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\LED</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\LEDBlink</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\LEDBlink\LEDBlink.c</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\LEDBlink\LEDBlink.h</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\UART</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\UART_IntClock</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cycodeshareexport.ld</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cycodeshareimport.ld</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cycodeshareimport.scat</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydevice.h</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydevice_trm.h</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydevicegnu.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydeviceiar.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydevicerv.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cydisabledsheets.h</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cyfitter.h</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cyfitter_cfg.c</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cyfitter_cfg.h</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cyfittergnu.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cyfitteriar.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cyfitterrv.inc</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\cymetadata.c</v>
-<v>myCustomComponent\myCustomComponent\Generated_Source\PSoC5\project.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="myCustomComponent\myCustomComponent">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="myCustomComponent\DemoProj">
 <ExpandedNodeIds>
 <v>myCustomComponent</v>
+<v>myCustomComponent\DemoLib</v>
 <v>myCustomComponent\DemoLib\LEDBlink</v>
 <v>myCustomComponent\DemoLib\LEDBlink\API</v>
 <v>myCustomComponent\DemoLib\LEDBlink\API\LEDBlink.c</v>
@@ -112,6 +82,12 @@
 <VisibleNodeIds>
 <v>myCustomComponent</v>
 <v>myCustomComponent\DemoLib</v>
+<v>myCustomComponent\DemoLib\LEDBlink</v>
+<v>myCustomComponent\DemoLib\LEDBlink\API</v>
+<v>myCustomComponent\DemoLib\LEDBlink\API\LEDBlink.c</v>
+<v>myCustomComponent\DemoLib\LEDBlink\API\LEDBlink.h</v>
+<v>myCustomComponent\DemoLib\LEDBlink\LEDBlink.cysym</v>
+<v>myCustomComponent\DemoLib\LEDBlink\LEDBlink.v</v>
 <v>myCustomComponent\DemoProj</v>
 <v>myCustomComponent\myCustomComponent</v>
 </VisibleNodeIds>
@@ -257,6 +233,9 @@
 <name v=".\myCustomComponent.cydsn\LEDBlink\LEDBlink.cysym" />
 <name v=".\myCustomComponent.cydsn\main.c" />
 <name v=".\myCustomComponent.cydsn\myCustomComponent.cydwr" />
+<name v=".\myCustomComponent.cydsn\LEDBlink\API\LEDBlink.h" />
+<name v=".\myCustomComponent.cydsn\LEDBlink\API\LEDBlink.c" />
+<name v="..\myDemoProj\DemoProj.cydsn\TopDesign\TopDesign.cysch" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -264,7 +243,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1567, 799" SelectedTabbedMdiWindow="887b8e1f-eab3-47b3-ba1d-37e731624297"><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\TopDesign\TopDesign.cysch" Guid="a2919906-80a0-41a4-9d14-3cce0a6e1705" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\LEDBlink\LEDBlink.v" Guid="f0a0101d-000f-4eab-878f-40d4737269d4" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\LEDBlink\LEDBlink.cysym" Guid="44e04953-3c91-4513-846b-cb2a6c6c097c" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\main.c" Guid="d3e58ab5-7a12-4de8-a8ff-f6f2da11b714" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\myCustomComponent.cydwr" Guid="887b8e1f-eab3-47b3-ba1d-37e731624297" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1390, 829" SelectedTabbedMdiWindow="a5c47f6d-b482-4003-98e0-fca4e6e8cf39"><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\TopDesign\TopDesign.cysch" Guid="a2919906-80a0-41a4-9d14-3cce0a6e1705" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\LEDBlink\LEDBlink.v" Guid="f0a0101d-000f-4eab-878f-40d4737269d4" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\LEDBlink\LEDBlink.cysym" Guid="44e04953-3c91-4513-846b-cb2a6c6c097c" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\main.c" Guid="d3e58ab5-7a12-4de8-a8ff-f6f2da11b714" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\myCustomComponent.cydwr" Guid="887b8e1f-eab3-47b3-ba1d-37e731624297" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\LEDBlink\API\LEDBlink.h" Guid="1f911232-9cd9-4ae3-9e34-ac202fd796a2" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myCustomComponent\myCustomComponent.cydsn\LEDBlink\API\LEDBlink.c" Guid="e1e22c4c-081e-4385-993a-a46e009bd71b" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="de97884c-c224-4752-89d6-4b1aa68221ec" /><DocumentWindow Key="C:\Dev\pdev\5\PSOC_customCompDemo-master\myDemoProj\DemoProj.cydsn\TopDesign\TopDesign.cysch" Guid="a5c47f6d-b482-4003-98e0-fca4e6e8cf39" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="Release" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
